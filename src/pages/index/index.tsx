@@ -389,7 +389,7 @@ export default function Index() {
       </View>
       <View className='topNoticeItem' onClick={() => onCopyGithubClicked()}>
         <Image src={github_logo} className='topNoticeItemIcon' />
-        <Text className='topNoticeItemText'>https://gitee.com/paidaxing222/plugin-demo</Text>
+        <Text className='topNoticeItemText'>https://github.com/feichi2016/plugin-demo</Text>
       </View>
       <View className='actionPanel'>
         <View className='actionPanelTitleWrap'>
