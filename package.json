@@ -50,7 +50,7 @@
     "@tarojs/runtime": "3.6.7",
     "@tarojs/shared": "3.6.7",
     "@tarojs/taro": "3.6.7",
-    "nfcreader-sdk": "^0.0.11",
+    "nfcreader-sdk": "^0.0.12",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },

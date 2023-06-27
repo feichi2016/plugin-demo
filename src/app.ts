@@ -10,7 +10,10 @@ function App({ children }: PropsWithChildren) {
     console.log('App launched.')
 
     // 初始化 SDK
-    System.init('demo123456789');
+    // ...
+    // 这里填写你自己的插件ID，否则无法进行调试
+    // ...
+    System.init('1687707670490');
   })
 
   // children 是将要会渲染的页面
